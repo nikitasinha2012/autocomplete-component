@@ -1,0 +1,14 @@
+.SideBarRoleList{
+    background-color: #292929;
+    width: 5%;
+    height: 8px;
+    border-radius: 4.37vh;
+    border: #9b9b9b solid 2px;
+    margin-right: 15px;
+
+}
+.rolemanagement.active{
+    background-image: linear-gradient(212deg, #ddb008, #f76b1c);
+}
+
+

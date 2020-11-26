@@ -1,0 +1,10 @@
+.Role_container_header tr, th{
+	padding: 10px 36px;
+	font-size: 12px;
+	color: #474747;
+	font-weight: bold;
+	letter-spacing: 1.7px;
+}
+.Role_container_header td:first-child{
+	width: 10%;
+}

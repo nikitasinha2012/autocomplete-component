@@ -1,0 +1,42 @@
+.Input {
+    padding: 16px 0px 15px 23px;
+    width: 60%;
+    /* margin-left: 69px;
+    margin-top: 39px; */
+    
+}
+
+.Input textarea {
+    padding: 16px 0px 15px 23px;
+   
+    width: 100%;
+    resize: none;
+}
+
+.Inputborder {
+    border: solid 1px #979797;
+    opacity: 0.25;
+}
+
+.InputElement {
+    outline: none;
+    border: 1px solid #ccc;
+    background-color: white;
+    font: inherit;
+    padding: 6px 10px;
+    display: block;
+    box-sizing: border-box;
+}
+
+.Invalid {
+    border: 1px solid red;
+}
+
+
+
+
+
+
+
+
+

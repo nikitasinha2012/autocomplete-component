@@ -1,0 +1,46 @@
+.SideBar {
+    position: fixed;
+    width: 15%;
+    max-width: 20%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    z-index: 200;
+    background-color: #121212;
+    padding: 45px 0px;
+    box-sizing: border-box;
+    color:#ffffff;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    
+}
+.SideBar ul {
+    list-style: none;
+    
+}
+.SideBar li {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+.SideBar a {
+    color: #ffffff;
+    text-decoration: none;
+
+}
+.SideBar p{
+    /* margin: 20px; */
+    text-align: left;
+    padding: 10px 20px 15px 40px;
+    /* display: flex;
+    justify-content: center; */
+  
+}
+
+
+
+
