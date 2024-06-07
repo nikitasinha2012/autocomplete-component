@@ -1,0 +1,37 @@
+/* styles.css */
+
+.autocomplete-container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.autocomplete-input {
+  padding: 10px;
+  width: 300px;
+  /* margin-bottom: 10px; */
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.autocomplete-suggestions {
+  margin: auto;
+  list-style-type: none;
+  padding: 10px;
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.autocomplete-suggestion {
+  padding: 10px;
+  cursor: pointer;
+  border-bottom: 1px solid #ccc;
+}
+
+.autocomplete-suggestion:last-child {
+  border-bottom: none; 
+}
+
+.autocomplete-suggestion:hover {
+  background-color: #f0f0f0;
+}
