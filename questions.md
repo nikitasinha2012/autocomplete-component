@@ -155,8 +155,6 @@ export default withLoader;
 In this example,’withLoader’ HOC takes a ‘WrappedComponent’ as input and returns a new functional component. Inside this new component, it checks the ‘isLoading’ prop. If isLoading is true, it displays a simple loading indicator (<div>Loading...</div>). Otherwise, it renders the ‘WrappedComponent’ along with any other props passed to it.
 
 
-
-
 7. What's the difference in handling exceptions in promises,
 callbacks and async...await?
 
